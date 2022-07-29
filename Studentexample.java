@@ -16,7 +16,8 @@ mylist1.add(new Student(43,80,"kal",97));
 mylist1.add(new Student(56,67,"ved",80));
 mylist1.add(new Student(75,93,"dkr",76));
 mylist1.add(new Student(89,68,"den",81));
-mylist1.add(new Student(89,68,"ken",81));		
+mylist1.add(new Student(89,68,"ken",81));	
+mylist1.add(new Student(78,68,"qen",61));
 System.out.println(mylist1);
 //mylist1.stream().filter(k->k.getName().startsWith("d")).
 //collect(Collectors.toMap(s->s.getRollno(),k->k.getName())).forEach((k,v)->System.out.println(k+" "+v));
