@@ -8,6 +8,7 @@
 	}
 	void show(String name) {
 		System.out.println(name + "is of" +colour+ "colour");
+		System.out.println();
 	}
 }
  class Fgh extends Ghg{
